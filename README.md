@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @mmim14
-- 🌱 I’m currently learning web development and Python. 
-- 📫 You can reach me at Momina Mim on LinkedIn 
+- 👋 Hi, I’m Momina Mim
+- 🌱 I’m learning AI Engineering, studying math, and want to become a cryptographer
 
